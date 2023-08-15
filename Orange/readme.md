@@ -18,7 +18,7 @@
 
 <img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/Iris/iris.png' width=100%>
 
-### ### Forecasting Jena's temperature:
+### Forecasting Jena's temperature:
 
 <img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/Jena_climate/Jenaclimate.png' width=100%>
 
@@ -34,6 +34,14 @@
 
 <img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/Titanic/Titanic.png' width=100%>
 
+### Predicting House Prices:
+
+<img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/Housing/housing.png' width=100%>
+
+### Predicting Stores Sale:
+
+<img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/Store/store_data_pred.png' width=100%>
+
 ###  Recognising various traffic signs:
 
 <img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/TrafficSigns/traffic_sign.png' width=100%>
@@ -42,6 +50,9 @@
 
 <img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/Zoo/zoo.png' width=100%>
 
+### Analysing the 2016 US Presidential Election Using Sentimental Analysis and Topic Modelling:
+
+<img src='https://github.com/AbdullahJaffrey/NoCode-Projects/blob/main/Orange/election-tweets-2016/election-tweets-2016.png' width=100%>
 
 
 Regards ❤️
